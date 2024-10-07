@@ -51,6 +51,10 @@ repositories:
     type: git
     url: https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs.git
     version: e2e75fc1603a9798773e467a679edf68b448e705
+  universe/autoware.universe/common/autoware_auto_msgs:
+    type: git
+    url: https://github.com/tier4/autoware_auto_msgs.git
+    version: tier4/main
   universe/external/muSSP:
     type: git
     url: https://github.com/tier4/muSSP.git
