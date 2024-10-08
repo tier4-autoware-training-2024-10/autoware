@@ -88,10 +88,6 @@ repositories:
     url: https://github.com/tier4/glog.git
     version: v0.6.0_t4-ros
   # launcher
-  launcher/autoware_launch:
-    type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
-    version: main
   launcher/autoware_launch.sparrow:
     type: git
     url: git@github.com:tier4-autoware-training-2024-10/autoware_launch.sparrow.git
@@ -120,10 +116,6 @@ repositories:
     url: https://github.com/autowarefoundation/ros2_socketcan
     version: main
   # sensor_kit
-  sensor_kit/sample_sensor_kit_launch:
-    type: git
-    url: https://github.com/autowarefoundation/sample_sensor_kit_launch.git
-    version: main
   vehicle/sparrow_sensor_kit_launch:
     type: git
     url: git@github.com:tier4-autoware-training-2024-10/sparrow_sensor_kit_launch.git
@@ -158,10 +150,6 @@ repositories:
     url: git@github.com:tier4-autoware-training-2024-10/roboteq_interface.git
     version: main
   # param
-  param/autoware_individual_params:
-    type: git
-    url: git@github.com:tier4-autoware-training-2024-10/autoware_individual_params.git
-    version: main
   vehicle/sparrow_description:
     type: git
     url: git@github.com:tier4-autoware-training-2024-10/sparrow_description.git
