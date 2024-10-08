@@ -99,8 +99,8 @@ repositories:
     version: main
   sensor_component/external/tamagawa_imu_driver:
     type: git
-    url: https://github.com/tier4/tamagawa_imu_driver.git
-    version: ros2
+    url: git@github.com:tier4-autoware-training-2024-10/tamagawa_imu_driver.git
+    version: ros2-humble
   sensor_component/external/nebula:
     type: git
     url: https://github.com/tier4/nebula.git
@@ -147,7 +147,7 @@ repositories:
     version: main
   vehicle/external/roboteq_interface:
     type: git
-    url: https://github.com/tier4-autoware-training-2024-10/roboteq_interface.git
+    url: git@github.com:tier4-autoware-training-2024-10/roboteq_interface.git
     version: main
   # param
   param/autoware_individual_params:
