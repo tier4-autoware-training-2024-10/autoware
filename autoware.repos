@@ -150,7 +150,7 @@ repositories:
     url: git@github.com:tier4-autoware-training-2024-10/roboteq_interface.git
     version: main
   # param
-  vehicle/sparrow_description:
+  param/autoware_individual_params:
     type: git
-    url: git@github.com:tier4-autoware-training-2024-10/sparrow_description.git
+    url: git@github.com:tier4-autoware-training-2024-10/autoware_individual_params.git
     version: main
