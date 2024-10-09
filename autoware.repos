@@ -166,7 +166,3 @@ repositories:
     type: git
     url: https://github.com/tier4/spinnaker.git
     version: 4c74d319ef9186a4fb643dbd82e1b5f7918e75ea
-  vendor/dynamic_message_introspection:
-    type: git
-    url: https://github.com/osrf/dynamic_message_introspection.git
-    version: 50277e341f61455c42a6015b5718804a4f8588f6
