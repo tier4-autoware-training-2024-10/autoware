@@ -162,10 +162,6 @@ repositories:
     type: git
     url: https://github.com/tier4/ublox.git
     version: tier4/rolling
-  vendor/boost_transport_drivers:
-    type: git
-    url: https://github.com/autowarefoundation/transport_drivers.git
-    version: main
   vendor/spinnaker:
     type: git
     url: https://github.com/tier4/spinnaker.git
