@@ -100,7 +100,7 @@ repositories:
   sensor_component/external/tamagawa_imu_driver:
     type: git
     url: git@github.com:tier4-autoware-training-2024-10/tamagawa_imu_driver.git
-    version: ros2-humble
+    version: master
   sensor_component/external/nebula:
     type: git
     url: https://github.com/tier4/nebula.git
