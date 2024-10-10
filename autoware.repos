@@ -166,3 +166,7 @@ repositories:
     type: git
     url: https://github.com/tier4/spinnaker.git
     version: 4c74d319ef9186a4fb643dbd82e1b5f7918e75ea
+  tools/sparrow_record:
+    type: git
+    url: git@github.com:tier4-autoware-training-2024-10/sparrow_record.git
+    version: main
